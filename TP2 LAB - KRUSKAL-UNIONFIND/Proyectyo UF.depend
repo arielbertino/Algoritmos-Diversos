@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1442210296 source:d:\usuarios\desktop\proyecto con clase unionfind\proyectyo uf\main.cpp
+	<iostream>
+	"UnionFind.h"
+
+1442207350 d:\usuarios\desktop\proyecto con clase unionfind\proyectyo uf\include\unionfind.h
+	<list>
+
+1442212309 d:\usuarios\desktop\proyecto con clase unionfind\proyectyo uf\unionfind.h
+
+1442214062 source:i:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\main.cpp
+	<iostream>
+	"UnionFind.h"
+
+1442213426 i:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\unionfind.h
+
+1442471492 source:m:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\main.cpp
+	<iostream>
+	"UnionFind.h"
+	"GrafoF.h"
+	"arcoOCD.h"
+	<set>
+	<list>
+
+1442471492 m:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\unionfind.h
+
+1441308710 m:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\grafof.h
+	<list>
+	<map>
+
+1442303146 m:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\listaarco.h
+	<list>
+
+1442517130 source:f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\main.cpp
+	<iostream>
+	"UnionFind.h"
+	"GrafoF.h"
+	"arcoOCD.h"
+	<set>
+	<list>
+
+1442517468 f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\unionfind.h
+
+1441308710 f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\grafof.h
+	<list>
+	<map>
+
+1442342882 f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\listaarco.h
+	<list>
+
+1442343146 f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\include\arcoocd.h
+
+1442510324 f:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\arcoocd.h
+
+1442469494 m:\algoritmos 2\proyecto con clase unionfind\proyectyo uf\arcoocd.h
+

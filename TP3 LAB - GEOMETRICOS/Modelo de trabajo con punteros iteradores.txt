@@ -1,0 +1,48 @@
+while (itP!=puntos.end())
+    {
+        cout << "1: " << (*itP).x << "," << (*itP).y << endl;
+        itAuxiliar=itP;
+        itAuxiliar++;
+        cout << "2: " << (*itAuxiliar).x << "," << (*itAuxiliar).y << endl;
+        if ((itAuxiliar) != puntos.end())
+           cout << "3: " << (*itAuxiliar).x << "," << (*itAuxiliar).y << endl;
+        itP++;
+        cout << "4: " << (*itP).x << "," << (*itP).y << endl;
+    }
+
+
+si uno preguta por iteradores al siguiente el iterador se mueve, perdiendo el 
+orden que uno estaba siguiendo. Hay que definir otro iterador (auxiliares), 
+hacer que apunte al elemento actual, sumas ese iterador auxiliar y preguntar 
+por ese auxiliar. de esta forma no movemos el iterador pricipal que nos interasa 
+de manera innecesaria o no querida. quiero vale 4.
+
+casos posibles al recorrer la lista de puntos
+
+itP (iterador sobre puntos)
+
+si (el itp es un punto(no es un separador))  --->
+{  
+	itaux = itp
+	itaux++;
+	if (itaux es un punto ///el siiguiente)   --->
+	{
+		areatota=area(itp,itaux,pdado)
+		cantpuntos+1;
+	}
+	else (si itaux no es un punto)  ///estoy(con itaux) en el final  o en un separador	
+	{
+		for (int i=0, i<cantpuntos, i++)
+			itaux--
+		areatota=area(itp,itaux,pdado)
+	}
+}
+else /// (itp no es un punto) /// es un separador o el el final de lña lista
+{
+   if (itp es un separador)
+	{
+		itp++;
+		cantputos=0;
+	}
+   si no es un separador esta en fin de l a lista no tiene que hacer nada el while va a terminar
+}

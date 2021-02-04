@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1441915728 source:f:\tp1 algoritmos 2\tp1\main.cpp
+	"GrafoF.h"
+	"iostream"
+	<list>
+	<map>
+	<set>
+
+1441308710 f:\tp1 algoritmos 2\tp1\grafof.h
+	<list>
+	<map>
+
+1442103356 source:m:\tp1 algoritmos 2\tp1\main.cpp
+	"GrafoF.h"
+	"iostream"
+	<list>
+	<map>
+	<set>
+
+1441308710 m:\tp1 algoritmos 2\tp1\grafof.h
+	<list>
+	<map>
+
+1442103356 source:m:\algoritmos 2\tp1\main.cpp
+	"GrafoF.h"
+	"iostream"
+	<list>
+	<map>
+	<set>
+
+1441308710 m:\algoritmos 2\tp1\grafof.h
+	<list>
+	<map>
+
+1442103356 source:f:\algoritmos 2\tp1\main.cpp
+	"GrafoF.h"
+	"iostream"
+	<list>
+	<map>
+	<set>
+
+1441308710 f:\algoritmos 2\tp1\grafof.h
+	<list>
+	<map>
+
+1442103356 source:d:\usuarios\desktop\analisis y diseño de algoritmos 2\tp1-dfs-no rojos\main.cpp
+	"GrafoF.h"
+	"iostream"
+	<list>
+	<map>
+	<set>
+
+1441308710 d:\usuarios\desktop\analisis y diseño de algoritmos 2\tp1-dfs-no rojos\grafof.h
+	<list>
+	<map>
+

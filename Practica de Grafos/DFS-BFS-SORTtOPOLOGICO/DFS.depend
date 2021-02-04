@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1444650993 source:d:\usuarios\desktop\practica de grafos\dfs\dfs\main.cpp
+	<iostream>
+	"GrafoF.h"
+	<list>
+	<map>
+	<set>
+	<queue>
+	<stack>
+
+1441308710 d:\usuarios\desktop\practica de grafos\dfs\dfs\grafof.h
+	<list>
+	<map>
+
+1444651511 source:d:\usuarios\desktop\practica de grafos\dfs-bfs-sorttopologico\main.cpp
+	<iostream>
+	"GrafoF.h"
+	<list>
+	<map>
+	<set>
+	<queue>
+	<stack>
+
+1441308710 d:\usuarios\desktop\practica de grafos\dfs-bfs-sorttopologico\grafof.h
+	<list>
+	<map>
+

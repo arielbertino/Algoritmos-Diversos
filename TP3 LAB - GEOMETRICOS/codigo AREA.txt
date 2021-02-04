@@ -1,0 +1,34 @@
+  if (((*itAux).x == separacion)&&((*itAux).y == separacion))
+                {
+                    for (int i=contadorPuntos; i>0; i--)
+                        itAux--;
+                    cout << "1: " << (*itAux).x << "," << (*itAux).y << endl;
+                    cout << "1: " << (*itP).x << "," << (*itP).y << endl;
+                    areaTotal+=area(*itP ,*itAux, pDado);
+                    itP++;
+                    itP++;
+                    contadorPuntos=0;
+                }
+            else {
+                    itAux = itP++;
+                    if (itAux == puntos.end())
+                    {
+                        cout << "3: " << (*itAux).x << "," << (*itAux).y << endl;
+                        cout << "4: " << contadorPuntos << endl;
+                        for (int i=contadorPuntos+1; i>0; i--)
+                            itAux--;
+                        cout << "5: " << contadorPuntos << endl;
+                        cout << "6: " << (*itP).x << "," << (*itP).y << endl;
+                        cout << "7: " << (*itAux).x << "," << (*itAux).y << endl;
+                        areaTotal+=area(*itP,*itAux, pDado);
+                    }
+                    else{
+                        cout << "8: " << (*itP).x << "," << (*itP).y << endl;
+                        cout << "9: " << (*itAux).x << "," << (*itAux).y << endl;
+                        areaTotal+=area(*itP,*itAux, pDado);
+                        contadorPuntos++;}
+                    }
+                    //  contadorPuntos++;
+                 }
+            //contadorPuntos++;
+            itP++;

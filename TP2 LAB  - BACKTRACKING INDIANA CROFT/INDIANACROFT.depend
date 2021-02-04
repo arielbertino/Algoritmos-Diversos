@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1445534472 source:n:\facultad\algoritmos 2\tpn2 backtracking indiana croft\main.cpp
+	<iostream>
+	<list>
+	<set>
+
+1445547398 source:f:\facultad\algoritmos 2\tpn2 backtracking indiana croft\main.cpp
+	<iostream>
+	<list>
+	<set>
+	<fstream>
+	<cstdlib>
+
